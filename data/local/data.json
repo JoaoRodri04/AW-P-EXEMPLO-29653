@@ -1,1 +1,35 @@
-{"students":[{"number":"1778","name":"Marcelo Filipe","city":"Braga","birthday":"17-09-1991"},{},{}],"schools":[{"id":"ESE","name":"Escola Superior de Educação","sigla":"ESE","address":"frente do axis","website":"https://www.ipvc.pt/ese/"}],"courses":[{"id":"DWM","name":"Desenvolvimento Web e Multimédia","sigla":"DWM","school":"ESTG"},{"id":"ECGM","name":"Engenharia da computação grafica e multimedia comendo pao","sigla":"ECGM","school":"ESTG"}]}
+{
+    "students": [
+        {
+            "number": "1778",
+            "name": "Marcelo Filipe",
+            "city": "Braga",
+            "birthday": "17-09-1991"
+        },
+        {},
+        {}
+    ],
+    "schools": [
+        {
+            "id": "ESE",
+            "name": "Escola Superior de Educação",
+            "sigla": "ESE",
+            "address": "frente do axis",
+            "website": "https://www.ipvc.pt/ese/"
+        }
+    ],
+    "courses": [
+        {
+            "id": "DWM",
+            "name": "Desenvolvimento Web e Multimédia",
+            "sigla": "DWM",
+            "school": "ESTG"
+        },
+        {
+            "id": "ECGM",
+            "name": "Engenharia da computação grafica e multimedia comendo pao",
+            "sigla": "ECGM",
+            "school": "ESTG"
+        }
+    ]
+}
