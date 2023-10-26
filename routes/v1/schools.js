@@ -1,5 +1,5 @@
 const schoolsRouter = require('express').Router();
-const controller = require('../controllers/schools');
+const controller = require('../../controllers/v1/schools');
 
 schoolsRouter.get('/', controller.getAll);
 schoolsRouter.get('/:id', controller.getById);
