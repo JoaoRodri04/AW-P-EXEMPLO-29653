@@ -9,15 +9,7 @@
         {},
         {}
     ],
-    "schools": [
-        {
-            "id": "ESE",
-            "name": "Escola Superior de Educação",
-            "sigla": "ESE",
-            "address": "frente do axis",
-            "website": "https://www.ipvc.pt/ese/"
-        }
-    ],
+    "schools": [],
     "courses": [
         {
             "id": "DWM",
